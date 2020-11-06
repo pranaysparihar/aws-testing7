@@ -1,6 +1,7 @@
 # Local .terraform directories
 **/.terraform/*
 variables.tf
+modules\projects\A\variables.tf
 # .tfstate files
 *.tfstate
 *.tfstate.*
